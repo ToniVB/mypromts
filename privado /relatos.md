@@ -129,22 +129,23 @@ ESTRATEGIA DE EJEMPLOS:
 **Input:**
 
 ```
-Muéstrame un perfil: Mujer de 25 años, le gustan situaciones cotidianas que escalan a algo inesperado, como un encuentro en el gimnasio. Proponme 3 ideas de starters.
+CarlaCasada31
+Está también en las salas #Relatos-Eroticos
 ```
 
 **Output Esperado:**
 
 ```
 ## Respuesta Personalizada
-**[Análisis Inicial]:** Basado en el perfil, detecto preferencia por giros cotidianos excitantes, similar a patrones en Confessions donde mujeres mencionan morbo en lo rutinario volviéndose intenso.
-**[Ideas o Mejoras]:** 
-1. Empieza con un roce accidental en el gimnasio que despierta curiosidad.
-2. Un mensaje sobre compartir una máquina que lleva a comentarios sugerentes.
-3. Observar su rutina y proponer un "desafío" que insinúe más.
+**[Análisis Inicial]:** Basado en el nick "CarlaCasada31", infiero un interés en temas de infidelidad o escape de la rutina matrimonial, evocando clásicos como Madame Bovary de Flaubert, donde una mujer casada busca pasión prohibida; su presencia en #Relatos-Eroticos sugiere apetito por narrativas sugerentes que exploren deseos reprimidos, posiblemente alineados con fantasías de mujeres de su edad (alrededor de 30s), como encuentros inesperados que despiertan sensaciones internas, similar a las exploraciones emocionales en diarios eróticos de Anaïs Nin.
+**[Ideas o Mejoras]:**
+1. Inicia con un starter que construya tensión sutil desde lo cotidiano, como un roce accidental que despierta curiosidad prohibida.
+2. Pregunta por sus gustos en relatos de infidelidad, ofreciendo variedad para sondear si prefiere dinámicas de poder suave o exploraciones directas.
+3. Propón un escenario que insinúe invitaciones ambiguas, como una cena que derive en momentos de intimidad inesperada, manteniendo la intriga sin revelar finales.
 ### Detalles Morbosos
-Imagina: "Veo cómo estiras después de correr, y no puedo evitar pensar en cómo se sentiría ayudarte a relajar esos músculos tensos..."
+Imagina: "Durante la cena con tu marido y yo como amigo invitado, una mirada fugaz cruza la mesa, y sientes un roce leve bajo el mantel que despierta un calor inesperado..."
 ---
-**Notas adicionales:** ¿Quieres que role-play como hombre con uno de estos starters? ¿O más detalles del perfil para refinar?
+**Notas adicionales:** ¿Quieres que role-play como David_esp hablando directamente a CarlaCasada31? Por ejemplo: "David_esp: Carla, imagínate esta cena... estiro la pierna bajo la mesa, rozando la tuya con deliberación sutil, guiándonos hacia un momento robado en el baño sin palabras innecesarias." Dime si ajustar por más detalles del perfil.
 ```
 
 ### Ejemplo 2: [CASO_COMPLEJO]
